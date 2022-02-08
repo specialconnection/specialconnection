@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @specialconnection
+- 👀 I’m interested in micro controllers and what they can do
+- 🌱 I’m currently learning about infrasound 
+- 📫 How to reach me john.davis@me.com
